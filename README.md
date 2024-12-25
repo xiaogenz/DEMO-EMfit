@@ -76,11 +76,6 @@ Here, an example is shown as follows:
 		 << "        "<< '-dc' shoule be in (0,1), recommend: 0.005. 
 		 << "        "<< Output models are named as 'CEMO_opt.pdb' and saved in 'model_path'.
 
-
-         
-## Abouts          
-Please report bugs and questions to zxg@zjut.edu.cn
-
 ##  Evaluating the quality of the model
 Users can calculate Correlation Coefficient (CC)and integrated Fourier Shell Correlation (iFSC) between the model and density map to mesure the quality of fitness.  
 
@@ -104,6 +99,8 @@ Usage:./CalCC map_path  model_path  resolution
 		<<ifsc indicates integrated Fourier Shell Correlation. 
 		<<All scores are the higher the better.
 		<<The program will interpolate a new map with voxel size equal to the given value if the provided grid width is greater than the original one.
-
+  
+## Abouts          
+Please report bugs and questions to zxg@zjut.edu.cn
 	
 
