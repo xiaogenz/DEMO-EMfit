@@ -1,13 +1,13 @@
-# DEMO-EMfit: Coupling Deep Learning-Enhanced Map Processing with Global-Local Optimization for Protein Structure Fitting in Cryo-EM Maps
+# DEMO-EMfit: Fitting Atomic Structures into Cryo-EM Maps by Coupling Deep Learning-Enhanced Map Processing with Global-Local Optimization
 
 <h4 align = "center">Yaxian Cai<sup>1,2</sup>, XXXXX<sup>2</sup>, XXXXX<sup>1</sup>, XXXXX<sup>1</sup>, Xiaogen Zhou<sup>1</sup></h4>
-<h4 align = "center"> $^1$ Zhejiang University of Technology</center></h4>
-<h4 align = "center">$^2$ XXXXX</h4>
-                     
-                       
+<h4 align = "center"> $^1$ Fitting Atomic Structures into Cryo-EM Maps by Coupling Deep Learning-Enhanced Map Processing with Global-Local Optimization</center></h4>
+<h4 align = "center">$^2$ Fitting Atomic Structures into Cryo-EM Maps by Coupling Deep Learning-Enhanced Map Processing with Global-Local Optimization</h4>
+<h4 align = "center">$†$ These authors contributed equally to this work</h4>                    
+<h4 align = "center">$*$ To whom correspondence should be addressed: Xiaogen Zhou (zxg@zjut.edu.cn) or Guijun Zhang (zgj@zjut.edu.cn)</h4>                       
 
 ## Abstract
-With the breakthroughs in protein structure prediction technology, constructing atomic structures from cryo-electron microscopy (cryo-EM) density maps through structural fitting has become increasingly critical. However, the accuracy of the constructed models heavily relies on the precision of structure-to-map fitting. In this study, we introduce DEMO-EMfit, a progressive method that integrates deep learning-based backbone map extraction with a global-local structural pose search to fit protein structures into density maps. DEMO-EMfit was extensively evaluated on a benchmark dataset comprising both cryo-electron tomography (cryo-ET) and cryo-EM maps. The results demonstrate that DEMO-EMfit outperforms state-of-the-art approaches, offering an efficient and accurate tool for protein structure fitting in density maps.
+With the breakthroughs in protein structure prediction technology, constructing atomic structures from cryo-electron microscopy (cryo-EM) density maps through structural fitting has become increasingly critical. However, the accuracy of the constructed models heavily relies on the precision of structure-to-map fitting. In this study, we introduce DEMO-EMfit, a progressive method that integrates deep learning-based backbone map extraction with a global-local structural pose search to fit atomic structures into density maps. DEMO-EMfit was extensively evaluated on a benchmark dataset comprising both cryo-electron tomography (cryo-ET) and cryo-EM maps. The results demonstrate that DEMO-EMfit outperforms state-of-the-art approaches, offering an efficient and accurate tool for fitting atomic structures into density maps.
 
 ## Our Pipeline
 
