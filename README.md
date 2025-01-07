@@ -1,6 +1,6 @@
 # DEMO-EMfit: Fitting Atomic Structures into Cryo-EM Maps by Coupling Deep Learning-Enhanced Map Processing with Global-Local Optimization
 
-<h4 align = "center">Yaxian Cai<sup>1,†</sup>, Ziying Zhang<sup>1,†</sup>, XXXXX<sup>1</sup>, XXXXX<sup>1</sup>, Xiaogen Zhou<sup>1,†</sup></h4>
+<h4 align = "center">Yaxian Cai<sup>1,†</sup>, Ziying Zhang<sup>1,†</sup>, Xiangyu Xu<sup>1</sup>, Liang Xu<sup>1</sup>,Yu Chen<sup>2</sup>,Guijun Zhang<sup>1</sup>, Xiaogen Zhou<sup>1,†</sup></h4>
 <h4 align = "center"> $^1$ College of Information Engineering, Zhejiang University of Technology, Hangzhou 310023, China</center></h4>
 <h4 align = "center">$^2$ School of Computer Science and Technology, Soochow University, Suzhou 215006, China</h4>
 <h4 align = "center">$†$ These authors contributed equally to this work</h4>                    
